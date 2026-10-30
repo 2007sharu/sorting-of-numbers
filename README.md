@@ -51,8 +51,6 @@ END
 
 ```
 ## OUTPUT(Ascending order)
-
-
 <img width="1600" height="853" alt="image" src="https://github.com/user-attachments/assets/6f1c47e5-e885-44f2-a9fc-0d8d8184d19c" />
 
 ---
